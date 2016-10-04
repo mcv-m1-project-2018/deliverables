@@ -6,5 +6,5 @@
 - Do not upload the result masks or .mat files to your repository. Put the results in a folder in the virtual server named:
   /home/ihcvYY/m1-results/weekX/test/
   
-  If you generate the results in your local machine, you can use scp from a terminal or any file transfer program to copy the 
-  files to the server 
+  If you generate the results in your local machine, you can use scp from a local terminal (MobaXterm recommended for Windows users) 
+  or you can use any file transfer program to copy the files to the server.
